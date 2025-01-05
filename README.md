@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I'm Siddharth.
 🔭 I’m currently working on projects using Go.<br>👯 I’m looking to collaborate on anything backend.<br>🌱 I’m currently learning Distributed Systems.
 
 
